@@ -131,6 +131,6 @@ This project is open-source and available under the MIT License.
 ------------------------------------------------------------
 Author
 ------------------------------------------------------------
-Hiranmaya Panda
+Priyakanta Swain
 Final Year B.Tech (Computer Science)
 Passionate about backend engineering, system design, and C++ & Java development.
